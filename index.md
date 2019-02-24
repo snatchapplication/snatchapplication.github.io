@@ -2,12 +2,20 @@
 layout: default
 ---
 
-This project is made by
+*This project is made by*
 * Alper Kilicaslan
 * Cansu Yildirim
 * Kerem Ayoz
 * Yasin Balcanci
 * Mert Sarac
+
+*Supervisor*
+* Ozcan Ozturk
+
+*Juries*
+* Ercument Cicek
+* Fazli Can
+
 
 [Proposal](https://raw.githubusercontent.com/snatchapplication/snatchapplication.github.io/master/downloadable.txt).
 
