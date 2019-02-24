@@ -21,5 +21,4 @@ layout: default
 
 # Description
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+With Snatch, people who want to be active member in a social group are no longer need to search on the internet by also considering their reachable area. Snatch also recommends the suitable groups for its users. Furthermore, it allows group members to have a chat, to share documents and to make checklist in the platform. Dispersed platforms that cause some people to miss announcements or tasks will not be needed anymore. Groups also can advertise themselves and find more members.  
