@@ -17,7 +17,7 @@ _Juries_
 * Fazli Can
 
 
-[Proposal](https://raw.githubusercontent.com/snatchapplication/snatchapplication.github.io/master/downloadable.txt).
+[Proposal](https://raw.githubusercontent.com/snatchapplication/snatchapplication.github.io/master/downloadable.txt)
 
 # Description
 
