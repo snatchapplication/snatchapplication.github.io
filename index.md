@@ -2,17 +2,17 @@
 layout: default
 ---
 
-*This project is made by*
+_This project is made by_
 * Alper Kilicaslan
 * Cansu Yildirim
 * Kerem Ayoz
 * Yasin Balcanci
 * Mert Sarac
 
-*Supervisor*
+_Supervisor_
 * Ozcan Ozturk
 
-*Juries*
+_Juries_
 * Ercument Cicek
 * Fazli Can
 
