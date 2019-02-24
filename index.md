@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 This project is made by
 * Alper Kilicaslan
 * Cansu Yildirim
@@ -12,12 +10,6 @@ This project is made by
 * Mert Sarac
 
 [Proposal](https://raw.githubusercontent.com/snatchapplication/snatchapplication.github.io/master/downloadable.txt).
-
-[Link to test page](./test-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Description
 
