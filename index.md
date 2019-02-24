@@ -3,14 +3,15 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-This project is made by
->Alper Kilicaslan
->Cansu Yildirim
->Kerem Ayoz
->Yasin Balcanci
->Mert Sarac
 
-[Link to another page](./another-page.html).
+This project is made by
+* Alper Kilicaslan
+* Cansu Yildirim
+* Kerem Ayoz
+* Yasin Balcanci
+* Mert Sarac
+
+[Proposal](./another-page.html).
 
 [Link to test page](./test-page.html).
 
