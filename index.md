@@ -11,7 +11,7 @@ This project is made by
 * Yasin Balcanci
 * Mert Sarac
 
-[Proposal](./another-page.html).
+[Proposal](https://raw.githubusercontent.com/snatchapplication/snatchapplication.github.io/master/downloadable.txt).
 
 [Link to test page](./test-page.html).
 
