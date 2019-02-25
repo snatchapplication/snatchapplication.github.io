@@ -17,7 +17,7 @@ layout: default
 * Fazli Can
 
 
-[Proposal](https://raw.githubusercontent.com/snatchapplication/snatchapplication.github.io/master/downloadable.txt)
+[Proposal](https://github.com/snatchapplication/snatchapplication.github.io/blob/master/reports/Proposal.pdf)
 
 # Description
 
