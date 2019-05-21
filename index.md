@@ -18,6 +18,8 @@ layout: default
 
 
 [Proposal](https://github.com/snatchapplication/snatchapplication.github.io/blob/master/reports/Proposal.pdf)
+[Analysis Report](https://github.com/snatchapplication/snatchapplication.github.io/blob/master/reports/Analysis%20Report.pdf)
+[High Level Report](https://github.com/snatchapplication/snatchapplication.github.io/blob/master/reports/High-Level%20Design%20Report_Snatch.pdf)
 
 # Description
 
